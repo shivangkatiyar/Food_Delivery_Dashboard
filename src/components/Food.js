@@ -1,6 +1,6 @@
 
 import React, {useState} from "react";
-import { categories, data } from "../Data/Data.js";
+import { data } from "../Data/Data.js";
 function Food() {
     const [foods, setFoods] = useState(data);
 

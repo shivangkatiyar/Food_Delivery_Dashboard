@@ -3,7 +3,6 @@ import Hero from "./components/Hero";
 import HeadlineCard from "./components/HeadlineCard";
 import Food from "./components/Food";
 import Category from "./components/Category";
-import { categories } from "./Data/Data";
 
 function App() {
   return (
